@@ -9,9 +9,9 @@ Interested in the distributed systems.
 
 #### Check out my recent stars
 
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (6 days ago)
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (1 week ago)
-- [sinandredemption/fir_basys3](https://github.com/sinandredemption/fir_basys3) - Real-time Audio Processing through FIR filters on Basys-3 FPGA and Pmod I2S2 (1 week ago)
-- [ua-nick/Data-Structures-and-Algorithms](https://github.com/ua-nick/Data-Structures-and-Algorithms) - Data Structures and Algorithms implementation in Go (1 week ago)
-- [thrasher-corp/gocryptotrader](https://github.com/thrasher-corp/gocryptotrader) - A cryptocurrency trading bot and framework supporting multiple exchanges written in Golang. (3 weeks ago)
+- [golang/go](https://github.com/golang/go) - The Go programming language (today)
+- [hashicorp/raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol (today)
+- [hashicorp/memberlist](https://github.com/hashicorp/memberlist) - Golang package for gossip based membership and failure detection (today)
+- [hashicorp/nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. (today)
+- [lafikl/consistent](https://github.com/lafikl/consistent) - A Go library that implements Consistent Hashing and Consistent Hashing With Bounded Loads. (today)
 
