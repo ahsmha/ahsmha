@@ -9,8 +9,8 @@ Interested in the distributed systems.
 
 #### Check out my recent stars
 
-- [syslog-ng/syslog-ng](https://github.com/syslog-ng/syslog-ng) - syslog-ng is an enhanced log daemon, supporting a wide range of input and output methods: syslog, unstructured text, queueing, SQL &amp; NoSQL. (5 days ago)
-- [pgRouting/pgrouting](https://github.com/pgRouting/pgrouting) - Repository contains pgRouting library. Development branch is &#34;develop&#34;, stable branch is &#34;master&#34; (5 days ago)
+- [syslog-ng/syslog-ng](https://github.com/syslog-ng/syslog-ng) - syslog-ng is an enhanced log daemon, supporting a wide range of input and output methods: syslog, unstructured text, queueing, SQL &amp; NoSQL. (6 days ago)
+- [pgRouting/pgrouting](https://github.com/pgRouting/pgrouting) - Repository contains pgRouting library. Development branch is &#34;develop&#34;, stable branch is &#34;master&#34; (6 days ago)
 - [golang/go](https://github.com/golang/go) - The Go programming language (1 week ago)
 - [hashicorp/raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol (1 week ago)
 - [hashicorp/memberlist](https://github.com/hashicorp/memberlist) - Golang package for gossip based membership and failure detection (1 week ago)
