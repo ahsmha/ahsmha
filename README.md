@@ -4,7 +4,7 @@ Interested in the distributed systems.
 
 #### 🔨 Check out my recent pull requests
 
-- [[GSoC-2023 application requirements] add name in contributor list](https://github.com/pgRouting/GSoC-pgRouting/pull/282) on [pgRouting/GSoC-pgRouting](https://github.com/pgRouting/GSoC-pgRouting) (today)
+- [[GSoC-2023 application requirements] add name in contributor list](https://github.com/pgRouting/GSoC-pgRouting/pull/282) on [pgRouting/GSoC-pgRouting](https://github.com/pgRouting/GSoC-pgRouting) (1 day ago)
 - [docs: fix minor typo](https://github.com/casbin/casbin-website-v2/pull/144) on [casbin/casbin-website-v2](https://github.com/casbin/casbin-website-v2) (1 month ago)
 
 #### Check out my recent stars
