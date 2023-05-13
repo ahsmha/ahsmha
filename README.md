@@ -1,6 +1,6 @@
 Hi 👋 Ahmed here.
 
-Interested in distributed systems.
+Interested in the distributed systems.
 
 #### 🔨 Check out my recent pull requests
 
