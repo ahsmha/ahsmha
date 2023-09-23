@@ -4,9 +4,9 @@ Interested in distributed systems.
 
 #### Check out my recent stars
 
-- [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (4 days ago)
-- [apavamontri/nodejs-clean](https://github.com/apavamontri/nodejs-clean) - Clean Architecture with Node.js &#43; Express.js (5 days ago)
-- [jbuget/nodejs-clean-architecture-app](https://github.com/jbuget/nodejs-clean-architecture-app) - A simple API built with Hapi.js that follows DDD &#43; Clean Architecture principles (5 days ago)
-- [panagiop/node.js-clean-architecture](https://github.com/panagiop/node.js-clean-architecture) - A use case of Clean Architecture in Node.js comprising of Express.js, MongoDB and Redis as the main (but replaceable) infrastructure. (6 days ago)
+- [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (5 days ago)
+- [apavamontri/nodejs-clean](https://github.com/apavamontri/nodejs-clean) - Clean Architecture with Node.js &#43; Express.js (6 days ago)
+- [jbuget/nodejs-clean-architecture-app](https://github.com/jbuget/nodejs-clean-architecture-app) - A simple API built with Hapi.js that follows DDD &#43; Clean Architecture principles (6 days ago)
+- [panagiop/node.js-clean-architecture](https://github.com/panagiop/node.js-clean-architecture) - A use case of Clean Architecture in Node.js comprising of Express.js, MongoDB and Redis as the main (but replaceable) infrastructure. (1 week ago)
 - [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor &amp; IPFS (1 week ago)
 
