@@ -1,8 +1,8 @@
-Hi 👋 Ahmed here.
+hi! ahmed here
 
-Interested in distributed systems.
+interested in distributed systems
 
-#### Check out my recent stars
+#### check out my recent stars
 
 - [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / subsonic server API implementation  (1 day ago)
 - [gorilla/websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go. (5 days ago)
