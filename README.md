@@ -4,7 +4,7 @@ Interested in distributed systems.
 
 #### Check out my recent stars
 
-- [arcataroger/awesome-engineering-games](https://github.com/arcataroger/awesome-engineering-games) - A curated list of engineering-related video games rated Very Positive or higher on Steam (1 day ago)
+- [arcataroger/awesome-engineering-games](https://github.com/arcataroger/awesome-engineering-games) - A curated list of engineering-related video games rated Very Positive or higher on Steam (2 days ago)
 - [fduran/sadservers](https://github.com/fduran/sadservers) - SadServers.com Public (1 week ago)
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting framework, fully automated from empty disk to operating services with a single command. (3 weeks ago)
 - [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Go (4 weeks ago)
