@@ -1,8 +1,8 @@
-Hi 👋 Ahmed here.
+hi 👋 Ahmed here.
 
-Interested in distributed systems.
+interested in distributed systems.
 
-#### Check out my recent stars
+#### check out my recent stars
 
 - [bmizerany/pat](https://github.com/bmizerany/pat) -  (today)
 - [go-zoo/bone](https://github.com/go-zoo/bone) - Lightning Fast HTTP Multiplexer (today)
