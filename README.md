@@ -8,5 +8,5 @@ interested in distributed systems.
 - [j4orz/singsys](https://github.com/j4orz/singsys) -  (3 months ago)
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis (3 months ago)
 - [ryanstout/question_to_sql](https://github.com/ryanstout/question_to_sql) - Ask english questions about your snowflake data, get SQL answers. (5 months ago)
-- [mxssl/sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide) - Site Reliability Engineer Interview Preparation Guide (5 months ago)
+- [mxssl/sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide) - Site Reliability Engineer Interview Preparation Guide (6 months ago)
 
