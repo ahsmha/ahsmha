@@ -1,6 +1,6 @@
-hi 👋 ahmed here.
+hi 👋 ahsmha here.
 
-interested in distributed systems.
+interested in AI & distributed systems.
 
 #### check out my recent stars
 
