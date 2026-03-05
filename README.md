@@ -6,7 +6,7 @@ interested in distributed systems.
 
 - [harbor-framework/terminal-bench-science](https://github.com/harbor-framework/terminal-bench-science) - Terminal-Bench-Science: Evaluating AI Agents on Complex Real-World Scientific Workflows in the Terminal (1 week ago)
 - [strongdm/attractor](https://github.com/strongdm/attractor) - nlspec of StrongDM&#39;s Attractor, a non-interactive Coding Agent sufficient for use in a Software Factory (3 weeks ago)
-- [network-observability/network-observability-lab](https://github.com/network-observability/network-observability-lab) - Reference Lab and Observability architecture that accompanies the book (3 weeks ago)
-- [weaviate/elysia](https://github.com/weaviate/elysia) - Python package and backend for the Elysia platform app. (3 weeks ago)
-- [blazegraph/database](https://github.com/blazegraph/database) - Blazegraph High Performance Graph Database (4 weeks ago)
+- [network-observability/network-observability-lab](https://github.com/network-observability/network-observability-lab) - Reference Lab and Observability architecture that accompanies the book (4 weeks ago)
+- [weaviate/elysia](https://github.com/weaviate/elysia) - Python package and backend for the Elysia platform app. (4 weeks ago)
+- [blazegraph/database](https://github.com/blazegraph/database) - Blazegraph High Performance Graph Database (1 month ago)
 
