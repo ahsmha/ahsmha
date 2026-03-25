@@ -4,7 +4,7 @@ interested in distributed systems.
 
 #### check out my recent stars
 
-- [AGI-Edgerunners/LLM-Planning-Papers](https://github.com/AGI-Edgerunners/LLM-Planning-Papers) - Must-read Papers on Large Language Model (LLM) Planning. (1 day ago)
+- [AGI-Edgerunners/LLM-Planning-Papers](https://github.com/AGI-Edgerunners/LLM-Planning-Papers) - Must-read Papers on Large Language Model (LLM) Planning. (2 days ago)
 - [snarktank/ralph](https://github.com/snarktank/ralph) - Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.  (1 week ago)
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework (1 week ago)
 - [harbor-framework/terminal-bench-science](https://github.com/harbor-framework/terminal-bench-science) - Terminal-Bench-Science: Evaluating AI Agents on Complex Real-World Scientific Workflows in the Terminal (4 weeks ago)
